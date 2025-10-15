@@ -28,3 +28,4 @@ var threeConsecutiveOdds = function(arr) {
 
 };
 console.log(threeConsecutiveOdds([2,6,4,1]));
+
