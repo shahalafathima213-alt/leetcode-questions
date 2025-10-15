@@ -43,5 +43,5 @@ var canAliceWin = function(nums) {
   return single !== double;
 };
 
-console.log(canAliceWin([1, 2, 3, 4, 10]))
+console.log(canAliceWin([1,2,3,4,10]))
 
